@@ -7,3 +7,11 @@ console.log(chalk.red('Happy ') + chalk.yellow.bgBlue.bold('Birthday') + chalk.g
 console.log(chalk.green('Happy ') + chalk.red.bgGreen.bold('Birthday') + chalk.blue(' dear ') + chalk.underline.yellow('Mr. E!'));
 
 console.log(chalk.yellow('Happy ') + chalk.blue.bgYellow.bold('Birthday') + chalk.red(' to ') + chalk.underline.green('you!'));
+
+debugger
+
+let a = 25
+let b = 4
+let c = 5
+
+console.log(a * b / c)
