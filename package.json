@@ -1,0 +1,22 @@
+{
+  "name": "chalk-gt0840922",
+  "version": "1.0.0",
+  "description": "chalk-gt0840922",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/OTCCIS131/chalk-gt0840922.git"
+  },
+  "author": "Garrett Troy",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/OTCCIS131/chalk-gt0840922/issues"
+  },
+  "homepage": "https://github.com/OTCCIS131/chalk-gt0840922#readme",
+  "dependencies": {
+    "chalk": "^2.1.0"
+  }
+}
